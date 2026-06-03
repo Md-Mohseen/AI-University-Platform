@@ -49,31 +49,6 @@ This project is an AI-powered system for managing university academic activities
 * Database: MongoDB
 * AI: OpenAI API
 
----
-
-## 📂 Project Structure
-
-```text
-docs/
-├── SRS.pdf
-├── Requirements.md
-├── Use_Cases.md
-├── Use_Case_Diagram.png
-├── DFD_Level_0.png
-├── DFD_Level_1.png
-└── ER_Diagram.png
-```
-
----
-
-## 📅 Week 1 Deliverables
-
-* Software Requirements Specification (SRS)
-* Requirements Analysis
-* Use Cases
-* Use Case Diagram
-* Data Flow Diagram (DFD)
-* Entity Relationship Diagram (ERD)
 
 ---
 
