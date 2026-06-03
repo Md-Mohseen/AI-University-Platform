@@ -54,7 +54,7 @@ This project is an AI-powered system for managing university academic activities
 
 ## 👨‍💻 Author
 
-**Name:** Md Mohseen MOlla
+**Name:** Md Mohseen Molla
 
 **Student ID:** 251035003
 
