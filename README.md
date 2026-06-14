@@ -46,7 +46,7 @@ This project is an AI-powered system for managing university academic activities
 
 * Frontend: React.js
 * Backend: Node.js, Express.js
-* Database: MongoDB
+* Database: MySQL
 * AI: OpenAI API
 
 
